@@ -1,3 +1,6 @@
+// Language: C++
+// Difficulty: Easy
+// Tags: Math, Geometry
 #include<iostream>
 using namespace std;
 //#define long long;
